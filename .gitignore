@@ -1,0 +1,34 @@
+
+# Executáveis
+*.exe
+*.out
+
+# Arquivos compilados em C
+*.o
+*.obj
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos de backup
+*.bak
+*~
+
+# Pastas de compilação
+build/
+bin/
+dist/
+
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Arquivos de depuração
+*.dSYM/
